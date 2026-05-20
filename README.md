@@ -11,7 +11,7 @@ This project combines trading analytics, sentiment analysis, and data visualizat
 
 # 🚀 Live Demo
 
-Add your deployed Streamlit link here:
+deployed Streamlit link here:
 
 https://your-app-name.streamlit.app
 
