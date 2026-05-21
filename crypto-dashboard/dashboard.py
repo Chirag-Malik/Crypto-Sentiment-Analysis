@@ -15,8 +15,8 @@ st.markdown("Analyze trading performance based on Fear & Greed market sentiment.
 
 # ---------------- LOAD DATA ---------------- #
 
-trader_df = pd.read_csv("historical_data.csv")
-sentiment_df = pd.read_csv("fear_greed_index.csv")
+trader_df = pd.read_csv(r"historical_data.csv")
+sentiment_df = pd.read_csv(r"fear_greed_index.csv")
 
 # ---------------- DATA CLEANING ---------------- #
 
