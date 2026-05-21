@@ -11,7 +11,7 @@ This project combines trading analytics, sentiment analysis, and data visualizat
 
 # 🚀 Live Demo
 
-deployed Streamlit link here:
+Streamlit link here:
 
 https://crypto-sentiment-analysis.streamlit.app/
 
@@ -55,16 +55,6 @@ The project uses:
 - Certain coins perform better during greed-driven markets
 - High-profit periods may also carry higher volatility and risk
 - Market psychology can significantly impact trading outcomes
-
----
-
-# 📷 Dashboard Preview
-
-Add screenshots here after deployment.
-
-Example:
-
-![Dashboard Screenshot](screenshot.png)
 
 ---
 
