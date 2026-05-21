@@ -13,7 +13,7 @@ This project combines trading analytics, sentiment analysis, and data visualizat
 
 deployed Streamlit link here:
 
-https://your-app-name.streamlit.app
+https://crypto-sentiment-analysis.streamlit.app/
 
 ---
 
